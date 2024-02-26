@@ -1,0 +1,124 @@
+{
+  "notes": [
+    {
+      "id": "6ulku",
+      "title": "Buy Clothes",
+      "details": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque ultricies, est facilisis ullamcorper aliquam, sem est molestie elit, sit amet dapibus tortor tellus non ante. Donec non nisi consectetur, ullamcorper sem ac, semper risus. Proin in neque malesuada, dictum magna quis, faucibus nulla. Nunc tempor consectetur laoreet. Suspendisse porttitor varius sem eu dignissim. Integer placerat ante scelerisque sapien sagittis dictum. Proin non tempus mi. Duis vitae elit justo. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Integer luctus tincidunt tincidunt.",
+      "category": "shopping",
+      "date": "2024-02-26",
+      "status": "checked"
+    },
+    {
+      "id": "8kelkelk",
+      "title": "Car Maintenance",
+      "details": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque ultricies, est facilisis ullamcorper aliquam, sem est molestie elit, sit amet dapibus tortor tellus non ante. Donec non nisi consectetur, ullamcorper sem ac, semper risus. Proin in neque malesuada, dictum magna quis, faucibus nulla. Nunc tempor consectetur laoreet.",
+      "category": "car",
+      "date": "2024-02-26",
+      "status": "checked"
+    },
+    {
+      "id": "a786s",
+      "title": "Friend's Party ",
+      "details": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin finibus blandit pellentesque. Phasellus lacinia nulla nec magna imperdiet vestibulum. Nulla facilisis eu dui eget congue. Phasellus lobortis arcu lorem, eu tristique libero lobortis mattis. Sed suscipit ligula neque, sit amet consequat enim suscipit sit amet. Vivamus non tincidunt sem. Suspendisse ut suscipit tortor. Suspendisse quis odio in lacus hendrerit vulputate sit amet sit amet tellus. Suspendisse augue justo",
+      "category": "reminder",
+      "date": "2024-01-31",
+      "status": "checked"
+    },
+    {
+      "title": "Washing a car",
+      "details": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus eget leo quis arcu iaculis pellentesque. Pellentesque tincidunt sapien magna, sit amet suscipit arcu molestie sed. Pellentesque vel semper ipsum. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla in nunc neque. Pellentesque nulla enim, dictum eget dignissim sit amet, pharetra ut diam. Mauris ipsum nibh, sodales tempus maximus id, maximus in massa. Sed ullamcorper risus eu elit aliquet",
+      "category": "car",
+      "id": "1strh",
+      "date": "2024-01-31",
+      "status": "deleted"
+    },
+    {
+      "title": "Software",
+      "details": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus eget leo quis arcu iaculis pellentesque. Pellentesque tincidunt sapien magna, sit amet suscipit arcu molestie sed. Pellentesque vel semper ipsum. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla in nunc neque. Pellentesque nulla enim, dictum eget dignissim sit amet, pharetra ut diam. Mauris ipsum nibh, sodales tempus maximus id, maximus in massa. Sed ullamcorper risus eu elit aliquet imperdiet. Nunc tempor, urna vel congue sodales, diam odio finibus sapien, non hendrerit leo quam eu metus. Nullam ornare ipsum et felis feugiat, in finibus neque blandit.",
+      "category": "work",
+      "id": "2strkjshg",
+      "date": "2024-02-26",
+      "status": "new"
+    },
+    {
+      "title": "Friend's Birthday",
+      "details": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus eget leo",
+      "category": "reminder",
+      "id": "3tyktktyk",
+      "date": "2024-02-26",
+      "status": "checked"
+    },
+    {
+      "id": "4r5",
+      "title": "Buy a Mobile",
+      "details": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+      "category": "shopping",
+      "date": "2024-01-31",
+      "status": "new"
+    },
+    {
+      "id": "5rykityk",
+      "title": "Software Test",
+      "details": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque ultricies, est facilisis ullamcorper aliquam, sem est molestie elit, sit amet dapibus tortor tellus non ante. Donec non nisi consectetur,",
+      "category": "work",
+      "date": "2024-01-31",
+      "status": "new"
+    },
+    {
+      "id": "6wr5ywe",
+      "title": "Buy Clothes",
+      "details": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque ultricies, est facilisis ullamcorper aliquam, sem est molestie elit, sit amet dapibus tortor tellus non ante. Donec non nisi consectetur, ullamcorper sem ac, semper risus. Proin in neque malesuada, dictum magna quis, faucibus nulla. Nunc tempor consectetur laoreet. Suspendisse porttitor varius sem eu dignissim. Integer placerat ante scelerisque sapien sagittis dictum. Proin non tempus mi. Duis vitae elit justo. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Integer luctus tincidunt tincidunt.",
+      "category": "shopping",
+      "date": "2024-01-31",
+      "status": "new"
+    },
+    {
+      "id": "7wr5uw6ru",
+      "title": "Friend's Wedding",
+      "details": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque ultricies, est facilisis ullamcorper aliquam, sem est molestie elit, sit amet dapibus tortor tellus non ante. Donec non nisi consectetur, ullamcorper sem ac, semper risus. Proin in neque malesuada, dictum magna quis, faucibus nulla. Nunc tempor consectetur laoreet. Suspendisse porttitor varius sem eu dignissim. Integer placerat ante scelerisque sapien sagittis dictum. Proin non tempus mi. Duis vitae elit justo. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Integer luctus tincidunt tincidunt. Sed efficitur, lorem ac tristique pharetra,",
+      "category": "reminder",
+      "date": "2024-02-24",
+      "status": "deleted"
+    },
+    {
+      "id": "8r6tutr",
+      "title": "Car Maintenance",
+      "details": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque ultricies, est facilisis ullamcorper aliquam, sem est molestie elit, sit amet dapibus tortor tellus non ante. Donec non nisi consectetur, ullamcorper sem ac, semper risus. Proin in neque malesuada, dictum magna quis, faucibus nulla. Nunc tempor consectetur laoreet.",
+      "category": "car",
+      "date": "2024-01-31",
+      "status": "new"
+    },
+    {
+      "id": "a786",
+      "title": "Friend's Party ",
+      "details": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin finibus blandit pellentesque. Phasellus lacinia nulla nec magna imperdiet vestibulum. Nulla facilisis eu dui eget congue. Phasellus lobortis arcu lorem, eu tristique libero lobortis mattis. Sed suscipit ligula neque, sit amet consequat enim suscipit sit amet. Vivamus non tincidunt sem. Suspendisse ut suscipit tortor. Suspendisse quis odio in lacus hendrerit vulputate sit amet sit amet tellus. Suspendisse augue justo",
+      "category": "reminder",
+      "date": "2024-01-31",
+      "status": "deleted"
+    },
+    {
+      "id": "c2e4",
+      "title": "My shopping",
+      "details": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin finibus blandit pellentesque. Phasellus lacinia nulla nec magna imperdiet vestibulum. Nulla facilisis eu dui eget congue. Phasellus lobortis arcu lorem, eu tristique libero lobortis mattis. Sed suscipit ligula neque, sit amet consequat enim suscipit sit amet. Vivamus non tincidunt sem. Suspendisse ut suscipit tortor. Suspendisse quis odio in lacus hendrerit vulputate sit amet sit amet tellus. Suspendisse augue justo, vehicula et lobortis quis, aliquam interdum ipsum. Vivamus at lobortis purus.",
+      "category": "shopping",
+      "date": "2024-02-03",
+      "status": "new"
+    },
+    {
+      "id": "4004",
+      "title": "Buy Laptop",
+      "details": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin finibus blandit pellentesque. Phasellus lacinia nulla nec magna imperdiet vestibulum. Nulla facilisis eu dui eget congue.",
+      "category": "shopping",
+      "date": "2024-02-24",
+      "status": "new"
+    },
+    {
+      "id": "f032",
+      "title": "wash a car",
+      "details": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin finibus blandit pellentesque. Phasellus lacinia nulla nec magna imperdiet vestibulum. Nulla facilisis eu dui eget congue. Phasellus lobortis arcu lorem, eu tristique libero lobortis mattis. Sed suscipit ligula neque, sit amet consequat enim suscipit sit amet. Vivamus non tincidunt sem. Suspendisse ut suscipit tortor. Suspendisse quis odio in lacus hendrerit vulputate sit amet sit amet tellus. Suspendisse augue justo, vehicula et lobortis quis, aliquam interdum ipsum. Vivamus at lobortis purus.",
+      "category": "car",
+      "date": "2024-02-25",
+      "status": "new"
+    }
+  ]
+}
